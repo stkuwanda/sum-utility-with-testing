@@ -1,0 +1,25 @@
+{
+  "name": "summation-utility-tool",
+  "version": "0.1.0",
+  "description": "This tool provides functions to add 2 integers.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stkuwanda/sum-utility-with-testing.git"
+  },
+  "keywords": [
+    "add",
+    "summation",
+    "total"
+  ],
+  "author": "Simbarashe Tanaka Kuwanda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stkuwanda/sum-utility-with-testing/issues"
+  },
+  "homepage": "https://github.com/stkuwanda/sum-utility-with-testing#readme"
+}
